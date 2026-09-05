@@ -68,3 +68,4 @@ After setup, the important files are:
 ```
 
 Commit `pyproject.toml` and `uv.lock` to Git.
+While working on github codespace, after reopening, only run `uv run python` to use the created venv.
