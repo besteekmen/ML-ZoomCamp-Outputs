@@ -8,16 +8,16 @@ The primary goal of this course is to learn how to build practical, production-r
 
 ## 📂 Repository Structure
 
-The repository is organized by course modules. Each module will contain my class notes, code, exercises, and homework assignments.
+The repository is organized by course modules. Each module contains my lecture notes, code, exercises, and homework assignments.
 
-*   📂 **[Module 1: ...](./module1_.../)** - *Coming soon*
-*   📂 **[Module 2: ...](./module2_.../)** - *Coming soon*
-*   📂 **[Module 3: ...](./module3_.../)** - *Coming soon*
+- 📂 **[Module 1: Introduction to Machine Learning](./module1_intro/)** — ML fundamentals, supervised learning, CRISP-DM, and environment setup.
+- 📂 **[Module 2: Machine Learning for Regression](./module2_regression/)** — Linear regression, feature engineering, regularization, validation, and model tuning.
+- 📂 **Module 3: Machine Learning for Classification** — *Coming soon*
 
 > Additional modules, homework, and project folders will be added as I progress through the course.
 
-*   🚀 **`midterm-project/`** - *Coming Soon* — End-to-end machine learning project.
-*   🚀 **`capstone-project/`** - *Coming Soon* — Final custom machine learning engineering project.
+- 🚀 `midterm-project/` — *Coming soon* — End-to-end machine learning project.
+- 🚀 `capstone-project/` — *Coming soon* — Final machine learning engineering project.
 
 ---
 
