@@ -12,7 +12,9 @@ The repository is organized by course modules. Each module contains my lecture n
 
 - 📂 **[Module 1: Introduction to Machine Learning](./module1_intro/)** — ML fundamentals, supervised learning, CRISP-DM, and environment setup.
 - 📂 **[Module 2: Machine Learning for Regression](./module2_regression/)** — Linear regression, feature engineering, regularization, validation, and model tuning.
-- 📂 **Module 3: Machine Learning for Classification** — *Coming soon*
+- 📂 **[Module 3: Machine Learning for Classification](./module3_classification/)** — Logistic regression, categorical encoding, feature importance, model interpretation, and churn prediction.
+- 📂 **[Module 4: Evaluation Metrics for Classification](./module4_evaluation/)** — Accuracy, precision, recall, F1 score, confusion matrix, ROC/AUC, cross-validation, and evaluation of imbalanced classes.
+- 📂 **Module 5:** — *Coming soon*
 
 > Additional modules, homework, and project folders will be added as I progress through the course.
 
