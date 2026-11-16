@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Downloaded dataset (train.py downloads it automatically)
+data/listings.csv
+
+# Local environment files
+.env
